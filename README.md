@@ -1,1 +1,1 @@
-# Javascript_dice
+# To practice Javascript
